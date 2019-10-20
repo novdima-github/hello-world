@@ -1,8 +1,3 @@
-<h1>Hello, World!!!</h1>
-<h1>Hello, my friend!!!</h1>
-
-<h1>Hello, World!!!</h1>
-Make and commit changes
 Click the README.md file.
 Click the  pencil icon in the upper right corner of the file view to edit.
 In the editor, write a bit about yourself.
